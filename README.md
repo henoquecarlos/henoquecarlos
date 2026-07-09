@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá, eu sou HΞNŒ C∆RLOS 👋
+
+💻 Desenvolvedor apaixonado por tecnologia.
+
+🔐 Estudante de Cibersegurança.
+
+🐧 Entusiasta de Linux, Termux e Open Source.
+
+🚀 Atualmente desenvolvendo projetos em PHP, Python e MariaDB.
+
+🇦🇴 Luanda, Angola
 
 <!--
 **henoquecarlos/henoquecarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
