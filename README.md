@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=HΞNŒ%20C∆RLOS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Bem-vindo ao meu perfil
-
 ### 💻 Developer • 🔐 Cybersecurity • 🐧 Linux • 🚀 Open Source
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+digital+solutions;Learning+Cybersecurity;Creating+Open+Source+Projects;Code.+Learn.+Build.+Share."/>
@@ -61,7 +59,6 @@ HΞNŒ C∆RLOS
 
 
 ---
----
 
 # 🚀 Projetos em Destaque
 
@@ -74,22 +71,7 @@ HΞNŒ C∆RLOS
 | 🐧 Linux Tools | Scripts e ferramentas Linux |
 
 
----
 
-# 🎯 Atualmente trabalhando em
-
-
-```text
-⚡ DroidServer
-⚡ Sistemas Web PHP
-⚡ MariaDB
-⚡ Segurança Linux
-⚡ Automação com Python
-⚡ Conteúdo tecnológico
-```
-
-
----
 
 # 📫 Conecte-se comigo
 
@@ -115,4 +97,4 @@ HΞNŒ C∆RLOS
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00ff41&style=for-the-badge"/>
 
-</div>-->
+</div>
