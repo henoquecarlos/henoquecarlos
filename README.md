@@ -1,26 +1,118 @@
-# Olá, eu sou HΞNŒ C∆RLOS 👋
+<div align="center">
 
-💻 Desenvolvedor apaixonado por tecnologia.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=HΞNŒ%20C∆RLOS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-🔐 Estudante de Cibersegurança.
+# 👋 Bem-vindo ao meu perfil
 
-🐧 Entusiasta de Linux, Termux e Open Source.
+### 💻 Developer • 🔐 Cybersecurity • 🐧 Linux • 🚀 Open Source
 
-🚀 Atualmente desenvolvendo projetos em PHP, Python e MariaDB.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+digital+solutions;Learning+Cybersecurity;Creating+Open+Source+Projects;Code.+Learn.+Build.+Share."/>
 
-🇦🇴 Luanda, Angola
+</div>
 
-<!--
-**henoquecarlos/henoquecarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+```bash
+$ whoami
+
+HΞNŒ C∆RLOS
+
+> Desenvolvedor apaixonado por tecnologia.
+> Estudante de Cibersegurança.
+> Criador de ferramentas e soluções digitais.
+
+```
+
+🌍 Angola 🇦🇴  
+💻 Desenvolvimento Web  
+🐧 Linux & Termux  
+🔐 Segurança Digital  
+🚀 Open Source
+
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+
+<table>
+<tr>
+<td>
+
+### Tenho experiência
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,bash,mysql,mariadb,git,github,linux,vscode&perline=4"/>
+
+</td>
+
+<td>
+
+### Aprendendo
+
+<img src="https://skillicons.dev/icons?i=nodejs,docker,react,typescript,go,rust&perline=4"/>
+
+</td>
+
+</tr>
+</table>
+
+
+---
+---
+
+# 🚀 Projetos em Destaque
+
+
+| Projeto | Descrição |
+|-|-|
+| 🖥️ DroidServer | Servidor completo para Termux |
+| 🏫 Gestão Escolar | Sistema de administração escolar |
+| 🌐 TechDataX | Plataforma de tecnologia |
+| 🐧 Linux Tools | Scripts e ferramentas Linux |
+
+
+---
+
+# 🎯 Atualmente trabalhando em
+
+
+```text
+⚡ DroidServer
+⚡ Sistemas Web PHP
+⚡ MariaDB
+⚡ Segurança Linux
+⚡ Automação com Python
+⚡ Conteúdo tecnológico
+```
+
+
+---
+
+# 📫 Conecte-se comigo
+
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/GitHub-HenoqueCarlos-black?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-00ff41?style=for-the-badge"/>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 💚 Code. Learn. Build. Share.
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00ff41&style=for-the-badge"/>
+
+</div>-->
